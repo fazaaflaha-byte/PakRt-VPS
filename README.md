@@ -12,3 +12,5 @@ this purpos to making vps for PakRt
      [ exit ]
   4. jika mau masuk ke faza-machine
      [ sudo docker start -i faza-deb ]
+
+  - mainkan mesin anda !!
