@@ -2,7 +2,7 @@
 this purpos to making vps for PakRt
 
 - masuk ke vps
-  [ ssh -p 17523 indomaret@0.tcp.ap.ngrok.io ]
+  [ ssh -p 19456 indomaret@0.tcp.ap.ngrok.io ]
   
 - membuat mesin debian container
   1. jadikan super user
